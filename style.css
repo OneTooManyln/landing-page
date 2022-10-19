@@ -52,3 +52,10 @@ body {
     color: gray;
     font-size: 18px;
 }
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+    background-color: #e5e7eb;
+}
