@@ -44,8 +44,9 @@ body {
 }
 
 .info {
+    
+    border: 2px solid;
     border-color: #3882f6;
-    border: 80px;
 }
 
 .text {
