@@ -36,3 +36,19 @@ body {
     color: #f9faf8;
     background: #3882f6;
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.info {
+    border-color: #3882f6;
+    border: 80px;
+}
+
+.text {
+    color: gray;
+    font-size: 18px;
+}
