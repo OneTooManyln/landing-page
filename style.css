@@ -17,3 +17,22 @@ body {
     color: #efe7eb;
     font-size: 18px;
 }
+
+.top-page {
+    background: #1f2937;
+}
+.main-title {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.sign-up {
+    color: #f9faf8;
+    background: #3882f6;
+}
