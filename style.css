@@ -96,7 +96,7 @@ button {
 
 .information {
     text-align: center;
-    height: 300px;
+    height: auto;
 }
 
 .info-header {
