@@ -60,6 +60,7 @@ a {
 .image {
     font-size: 18px;
     color: #f9faf8;
+    background-color: gray;
 }
 
 .info-header {
