@@ -40,6 +40,7 @@ a {
 .top-page {
     background: #1f2937;
     display: flex;
+    justify-content: center;
 }
 
 .tpleft {
@@ -47,9 +48,16 @@ a {
 
 }
 
+button {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 24px;
+    font-weight: bold;
+}
+
 .right {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .image {
@@ -64,7 +72,7 @@ a {
 
 .main-title {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #f9faf8;
     width: 450px;
 }
