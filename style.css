@@ -41,10 +41,17 @@ a {
     background: #1f2937;
     display: flex;
 }
+
+.left {
+    
+    margin: 26px;
+}
+
 .main-title {
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
+    width: 450px;
 }
 
 .subtext {
