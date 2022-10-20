@@ -42,8 +42,23 @@ a {
     display: flex;
 }
 
-.left {
+.tpleft {
+    margin: 26px;
+
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    display: flex;
     
+    width: 550px;
+    height: 260px;
+    align-items: center;
+    justify-content: center;
     margin: 26px;
 }
 
