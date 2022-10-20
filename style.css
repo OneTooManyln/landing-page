@@ -107,11 +107,22 @@ button {
 
 .container {
     display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-top: 45px;
+}
+
+.info {
+    max-width: 200px;
 }
 
 .illustration {
-    border: 2px solid;
+    border: 3px solid;
+    border-radius: 8px;
     border-color: #3882f6;
+    height: 140px;
+    width: 140px;
+    margin: auto;
 }
 
 .text {
