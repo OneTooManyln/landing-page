@@ -39,6 +39,7 @@ a {
 
 .top-page {
     background: #1f2937;
+    display: flex;
 }
 .main-title {
     font-size: 48px;
@@ -54,6 +55,11 @@ a {
 .sign-up {
     color: #f9faf8;
     background: #3882f6;
+}
+
+.image {
+    font-size: 18px;
+    color: #f9faf8;
 }
 
 .info-header {
