@@ -130,11 +130,16 @@ button {
     font-size: 18px;
 }
 
+.quote {
+    height: 400px;
+    background-color: #e5e7eb;
+}
+
 .quote-text {
     font-size: 36px;
     font-weight: lighter;
     color: #1f2937;
-    background-color: #e5e7eb;
+
 }
 
 .modal {
