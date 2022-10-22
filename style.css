@@ -157,8 +157,13 @@ button {
     font-weight: bold;
 }
 
+.container-modal {
+    height: 320px;
+}
+
 .modal {
     background-color: #3882f6;
+    
 }
 
 .call {
