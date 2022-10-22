@@ -159,6 +159,7 @@ button {
 
 .container-modal {
     height: 320px;
+    display: flex;
 }
 
 .modal {
@@ -166,10 +167,10 @@ button {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    max-width: 1000px;
     height: 150px;
     margin: auto;
     border-radius: 8px;
+    flex-basis: 1000px;
 }
 
 .call {
