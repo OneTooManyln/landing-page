@@ -142,8 +142,11 @@ button {
     font-size: 36px;
     font-weight: lighter;
     color: #1f2937;
+}
+
+.thor {
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
 }
 
 .modal {
