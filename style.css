@@ -163,7 +163,13 @@ button {
 
 .modal {
     background-color: #3882f6;
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1000px;
+    height: 150px;
+    margin: auto;
+    border-radius: 8px;
 }
 
 .call {
