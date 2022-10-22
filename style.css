@@ -153,6 +153,8 @@ button {
 .thor {
     display: flex;
     justify-content: flex-end;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .modal {
