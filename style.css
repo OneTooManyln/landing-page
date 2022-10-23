@@ -43,6 +43,11 @@ a {
     justify-content: center;
 }
 
+.tp-container {
+    display: flex;
+    flex-direction: row;
+}
+
 .tpleft {
     margin: 26px;
 
