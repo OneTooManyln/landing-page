@@ -41,6 +41,7 @@ a {
     background: #1f2937;
     display: flex;
     justify-content: center;
+    padding: 70px;
 }
 
 .tp-container {
@@ -102,6 +103,7 @@ button {
 .information {
     text-align: center;
     height: 400px;
+    padding-top: 40px;
 }
 
 .info-header {
