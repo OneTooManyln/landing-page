@@ -8,6 +8,8 @@ body {
     margin: 0;
     display: flex;
     align-items: center;
+    padding-right: 76px;
+    padding-left: 70px;
 }
 
 .logo {
